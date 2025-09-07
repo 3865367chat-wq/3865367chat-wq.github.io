@@ -2,14 +2,14 @@
 
 [![3865367chat-wq](https://img.shields.io/badge/3865367chat-wq-github-blue?logo=github)](https://github.com/3865367chat-wq)
 
-She is currently a student in the School of Journalism and Communication at NanJing University.
+目前是南京大学新闻传播学院的本科生.
 
 #### Contact
 
 Email: 3472372685@qq.com
 
 #### Education
-M.S., Journalism and Communication, NanJing University, 2023—2027.\
+本科, 新闻学, 南京大学, 2023—2027（在读）
 
 #### Research Interests
 
