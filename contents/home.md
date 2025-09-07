@@ -1,6 +1,6 @@
 
 
-[![3865367chat-wq](https://img.shields.io/badge/3865367chat-wq-github-blue?logo=github)](https://github.com/3865367chatwq)
+[![3865367chat-wq](https://img.shields.io/badge/3865367chat-wq-github-blue?logo=github)](https://github.com/3865367chat-wq)
 
 She is currently a student in the School of Journalism and Communication at NanJing University.
 
